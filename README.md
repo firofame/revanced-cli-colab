@@ -1,5 +1,9 @@
 # ReVanced CLI Colab
 
+<a target="_blank" href="https://colab.research.google.com/github/firofame/revanced-cli-colab">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 A Google Colab setup for downloading and using the ReVanced CLI tool to patch Android APK files.
 
 ## Features
